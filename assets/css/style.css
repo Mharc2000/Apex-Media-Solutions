@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #18d26e;
+  color: #b98904;
   transition: 0.5s;
   text-decoration: none;
 }
@@ -26,7 +26,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #18d36e;
+  color:#b98904;
   outline: none;
   text-decoration: none;
 }
@@ -752,7 +752,7 @@ section {
 }
 
 #about .about-col h2 a:hover {
-  color: #18d26e;
+  color: #b98904;
 }
 
 #about .about-col p {
